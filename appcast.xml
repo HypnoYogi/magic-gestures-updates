@@ -4,6 +4,17 @@
         <title>Magic Gestures</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 14 Oct 2026 21:57:00 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/MagicGestures-1.0-2.zip" length="5091267" type="application/octet-stream" sparkle:edSignature="KyN7dXZpa4tSvSo46mDhW3QKhNqeK7f8TkLHnOctH+7HCFT23L+83qLMntWxQnxeAP77ovSE/3DFNhImac/xBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Magic%20Gestures2-1.delta" sparkle:deltaFrom="1" length="13742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kInzNgAs8tvH7lV4BJlSu3fk+hL9QpVk5JMFtQRVftSNWso7S19Yalu8sVgLm+YvOyl0AZerdyI6Dkr5UnZECw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 14 Oct 2026 21:53:14 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
