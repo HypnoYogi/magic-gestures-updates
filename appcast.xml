@@ -4,6 +4,21 @@
         <title>Magic Gestures</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 16 Oct 2026 09:24:24 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/MagicGestures-1.0-6.zip" length="1628158" type="application/octet-stream" sparkle:edSignature="5FdjWxVDA2W7IXj5muQeqXN5Y3GkABWU3xVJ910FyT0yy+2O9umNzBPfbM5v7TtlK7xypW6B50/fzx929Z1ADA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Magic%20Gestures6-5.delta" sparkle:deltaFrom="5" length="49634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RQAttdg5+zKde3xf/bHiTS2iIzIfwJsnYsL4U3BxHfG4zD1CN/+v5WbkxVQfA8vO7kaY5VzT19GFkX3QU/1tCA=="/>
+                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Magic%20Gestures6-4.delta" sparkle:deltaFrom="4" length="87386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qBPhpJMuUU5K4CkcbklhaxrrYGFXoIb9toT+QJ5ADuWBj7CbM4NDYUWhGt68clFvLK6K3Sias5/vsQEOGmHaAA=="/>
+                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Magic%20Gestures6-3.delta" sparkle:deltaFrom="3" length="137746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BpIuuTInaeUnS0e3MK3mlhdD05sgFJQMGcEm/MF7WXE90z2rhwnI8Oxw5MuNMU7imhksMUBqUZMIBK6AYOsIDg=="/>
+                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Magic%20Gestures6-2.delta" sparkle:deltaFrom="2" length="150978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mwe5O7MMSTZdM6qnXj0q3oV0k0DwPfcvk4/ZRTfzCARfZQCWQx3K3LFVccCTJt7e2WdzYBGnb7n3giu+6l1aAA=="/>
+                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Magic%20Gestures6-1.delta" sparkle:deltaFrom="1" length="151646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L/wRkGvHFZoYlSC5pNiN7CkuFQVnL67w/fEGQo9Tj2y/iEAlYdp2dr4+MR8xsIPLIrREGJUb3Lij17wkP+wNDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 14 Oct 2026 23:54:41 +0200</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -27,18 +42,6 @@
                 <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Magic%20Gestures4-3.delta" sparkle:deltaFrom="3" length="120266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rC2MfzhsDtB4M71YDZt1ORL89ZUySCudZqLqMCgrcrGbcW8CYFiNAZb/wxppOWTSFDOWdhoRKnlgUk/EpvIvCA=="/>
                 <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Magic%20Gestures4-2.delta" sparkle:deltaFrom="2" length="135446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Qb6qp7Gp5WRJvO1ZwSsZuVOF6WuL4S239BsttFtJlLwiKJ93wZGDjVc9aUWMfLkL0SNgCrk+CFeTzckZjWyJAg=="/>
                 <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Magic%20Gestures4-1.delta" sparkle:deltaFrom="1" length="135442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kb8Bz1F2czE17tQqph/mPrXjMYVnywQXb8OFhq2xl7zUuz/gIQSl8jFdw8LfpEg56RpmoIYPiwjevnJbVwOHAQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 14 Oct 2026 22:39:06 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/MagicGestures-1.0-3.zip" length="5092986" type="application/octet-stream" sparkle:edSignature="Cr9Ynv/lCKDE8w3GsZPGREuYl5zaVrDXqF3ZN8VvdLTxT220FLbk4x/wjqy9k5mKLP77TVaMiBAahJAt42VEBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Magic%20Gestures3-2.delta" sparkle:deltaFrom="2" length="326762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="o6cK0cYnlBRjAgoaElk/gImlyY6ZR5sUwlIh5suuVI+J925wTdeiTwoY1zXYG0xd2apqTVP9CeE5ZRGAePG5BQ=="/>
-                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Magic%20Gestures3-1.delta" sparkle:deltaFrom="1" length="327454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6rStp+eXf4Nty6JINXux1NO1Vfa98BWF9ZgfbajKhry8FHYIw4PpnztObgUwjq8zQ3nrH4ruiU8kQZCPr311Cg=="/>
             </sparkle:deltas>
         </item>
     </channel>
