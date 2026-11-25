@@ -3,6 +3,23 @@
     <channel>
         <title>Magic Gestures</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Wed, 25 Nov 2026 21:14:30 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink xml:lang="de">https://hypnoyogi.github.io/magic-gestures-updates/MagicGestures-1.4.1-10.de.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="en">https://hypnoyogi.github.io/magic-gestures-updates/MagicGestures-1.4.1-10.en.html</sparkle:releaseNotesLink>
+            <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/MagicGestures-1.4.1-10.zip" length="1852477" type="application/octet-stream" sparkle:edSignature="3kz3eVioWTWmzpPRXsUCBiPrFFKHo+8BJ8Gy0/IKa8eS3YJ5340yI6feUbX2PnTgTKZq8pEcFBofdlKFegZdBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Floopi10-9.delta" sparkle:deltaFrom="9" length="143234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z5zJWBfaHewZfYPZ8fSJbgFSVFL1YER4CWYoMXqELDz2rw6BDGdtT85MBNct7KZ61W47tCwGnQ3mPx0HmsK2Cw=="/>
+                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Floopi10-8.delta" sparkle:deltaFrom="8" length="239206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zwu2noE1R8cQTSX6sO6aTSvPMC5OcUvy1zZwDQyp+Yyd+7QhojNwTaRG3wN+f74++YZysyOeBktaXrh0130xCA=="/>
+                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Floopi10-7.delta" sparkle:deltaFrom="7" length="357046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="g15EsU1swWb9KPwfO1sLVVDpx2YbE7I23OO1Wa8GMbr34C6kBRfVJcNuN5J7isBCT7ZvvnMbN0ahJb7Dy028DQ=="/>
+                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Floopi10-6.delta" sparkle:deltaFrom="6" length="496250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7v/FbJdyuhjqHbdKueAsQZn/aB9D5w8Bba9DCadQVL2zXh5vBW+ph4+wNMiX3yMP2VDCpLkX2e5J+L54rjonDQ=="/>
+                <enclosure url="https://hypnoyogi.github.io/magic-gestures-updates/Floopi10-5.delta" sparkle:deltaFrom="5" length="496710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G2oIeIwH5zgTerRf5kT/WtrtPRgtaFnaaE+ym20dtm0htl8wVRcuUoW/O3ZkY9CRnBvCy6JytN3Ajcn5mo0TAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4</title>
             <pubDate>Tue, 24 Nov 2026 13:08:32 +0000</pubDate>
             <sparkle:version>9</sparkle:version>
